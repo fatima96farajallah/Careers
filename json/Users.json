@@ -1,0 +1,33 @@
+[
+{
+	"id" : 123,
+	"name" : " Fatima",
+	"career_id" : 1
+
+},
+
+{
+	"id" : 456,
+	"name" : " Abrar",
+	"career_id" : 2
+
+},
+{
+	"id" : 789,
+	"name" : " Rami",
+	"career_id" : 3
+
+},
+{
+	"id" : 101,
+	"name" : " Ahmad",
+    "career_id" : 4
+},
+{
+	"id" : 102,
+	"name" : "Mohammad",
+	"career_id" : 5
+   
+}
+
+]
